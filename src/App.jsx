@@ -1,9 +1,11 @@
-
+import './styled.css'
 function App() {
 
   return (
-    <>
-    </>
+    <div className='background'>
+      
+    
+    </div>
   )
 }
 
